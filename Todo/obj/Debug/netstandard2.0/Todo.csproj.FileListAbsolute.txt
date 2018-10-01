@@ -1,0 +1,12 @@
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\bin\Debug\netstandard2.0\Todo.deps.json
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\bin\Debug\netstandard2.0\Todo.dll
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\bin\Debug\netstandard2.0\Todo.pdb
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.csprojResolveAssemblyReference.cache
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfo.cs
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.dll
+C:\Users\Raissa\Projetos de Desenvolvimento\PB - checklista todo\Todo\obj\Debug\netstandard2.0\Todo.pdb
